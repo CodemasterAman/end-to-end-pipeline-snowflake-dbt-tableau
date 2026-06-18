@@ -1,19 +1,4 @@
-# Comprehensive Data Pipeline Documentation for Sales Data Analysis Project
-
-## Table of Contents
-
-1. [Project Overview](#project-overview)  
-2. [Tools and Technologies Used](#tools-and-technologies-used)  
-3. [Step-by-Step Process](#step-by-step-process)  
-   - [Data Creation and Storage in AWS S3](#data-creation-and-storage-in-aws-s3)  
-   - [Staging Data in Snowflake](#staging-data-in-snowflake)  
-   - [Transforming Data using dbt](#transforming-data-using-dbt)  
-   - [Star Schema Design](#star-schema-design)  
-   - [Connecting Snowflake to Tableau](#connecting-snowflake-to-tableau)  
-   - [Creating a Live Dashboard](#creating-a-live-dashboard)  
-   - [Business Insights and KPIs](#business-insights-and-kpis)  
-   - [Automation with GitHub Actions](#automation-with-github-actions)  
-4. [Conclusion](#conclusion)  
+# Comprehensive Data Pipeline Documentation for Sales Data Analysis Project  
 
 ---
 
