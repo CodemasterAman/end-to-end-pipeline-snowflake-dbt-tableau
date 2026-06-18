@@ -78,7 +78,7 @@ The use of incremental models is crucial for several reasons:
 
 This approach enhances the overall efficiency and effectiveness of the data pipeline.
 
-**Key dbt Models**: [The dbt models can be found here](./emekamarkt/models/marts)  
+**Key dbt Models**: 
       
 ![dbt test](images/dbt-test.png)  
     
@@ -118,11 +118,6 @@ The Tableau dashboard titled **EmekaMarkt Sales Dashboard | Profit Overview** pr
 - **Profit by Customer**: Highlights high-value customers.
 - **Profit by Product Category**: Provides insights into the top-performing product categories.
 - **Profit Over Time**: Tracks profitability trends over a specific period.
-
-This **live dashboard** empowers stakeholders to monitor key performance metrics and make timely, data-driven decisions.
-
-**Tableau Dashboard Output**: ![Sales Overview Dashboard](Dashboard-in-Tableau/Tableau-Sales-Overview-Dahsboard.png)  
-[Sales Overview Dashboard](./Dashboard-in-Tableau/Sales-Overview-Dashboard-All.pdf)
 
 ---
 
